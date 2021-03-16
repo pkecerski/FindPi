@@ -1,6 +1,7 @@
 //  findpi.cpp
 //  Created by Paweł Kęcerski on 2021/03/16
 //  @pkecerski
+// Test github control
 //  Finds Pi to Nth digits, entered by User
 
 
